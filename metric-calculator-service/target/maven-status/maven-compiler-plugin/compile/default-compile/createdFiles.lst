@@ -1,0 +1,4 @@
+com\manipal\controller\MetricCalculatorController.class
+com\manipal\MetricCalculatorServiceApplication.class
+com\manipal\proxy\MetricConversionProxy.class
+com\manipal\model\MetricCalculatorBean.class
